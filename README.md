@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @selinatang
 - 👀 I’m interested in computer science and philosophy
 - 🌱 I’m currently learning CS 128 and CS 173 at UIUC
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sytang2@illinois.edu
 
 <!---
